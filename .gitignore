@@ -1,6 +1,8 @@
-data/
+data/raw/
+data/processed/
 *.edf
 *.gdf
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+results/logs/
